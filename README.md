@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/75976818/147389661-0503fc7f-7c1a-4935-b532-4bfb4962f658.png)
+https://public.tableau.com/views/CollegeAnalysis_16398118037560/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 
