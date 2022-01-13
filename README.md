@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My skills
+![image](https://user-images.githubusercontent.com/75976818/149330017-2ef1e775-7d1c-4101-bd9b-ccba48ccc2e7.png)
+![image](https://user-images.githubusercontent.com/75976818/149330047-12b1ce02-8158-4644-804c-4a7df893ae27.png)
+![image](https://user-images.githubusercontent.com/75976818/149330075-efac4089-abf1-4d86-b82a-3243fbc8356e.png)
 
